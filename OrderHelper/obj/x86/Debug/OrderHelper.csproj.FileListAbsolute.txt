@@ -68,3 +68,9 @@ C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\
 C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.Properties.Resources.resources
 C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.ViewOrderedItemForm.resources
 C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.csproj.GenerateResource.Cache
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.exe.manifest
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.application
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.exe
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.pdb
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.exe.manifest
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.application
