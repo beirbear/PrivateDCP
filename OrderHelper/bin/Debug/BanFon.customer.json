@@ -1,0 +1,11 @@
+﻿[
+{ "CustomerName": "ป้าเขียว บ.หมอสม", "Phones": "080-123-5245", "Type": "Cash", "Order": "1" },
+{ "CustomerName": "ป้าน้อย บ.ฟ่อน", "Phones": "086-910-8322", "Type": "Cash", "Order": "2" },
+{ "CustomerName": "น้อยเพ็ญศรี บ.ฟ่อน", "Phones": "084-046-9970", "Type": "Cash", "Order": "3" },
+{ "CustomerName": "ป้าปัน บ.ฟ่อน", "Phones": "054-336-815", "Type": "Cash", "Order": "4" },
+{ "CustomerName": "กันยา บ.ต๋อ", "Phones": "091-635-8912", "Type": "Cash", "Order": "5" },
+{ "CustomerName": "เปล่ง บ.หนอง", "Phones": "081-603-9867", "Type": "Cash", "Order": "6" },
+{ "CustomerName": "พี่หวัน บ.หนอง", "Phones": "082-189-7924", "Type": "Cash", "Order": "7" },
+{ "CustomerName": "ป้าสูน บ.ต๋อ", "Phones": "080-496-6176", "Type": "Cash", "Order": "8" },
+{ "CustomerName": "แม่พล", "Phones": "", "Type": "Cash", "Order": "9" }
+]

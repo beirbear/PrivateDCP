@@ -1,0 +1,70 @@
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.exe
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.pdb
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.OrderMakerForm.resources
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.Properties.Resources.resources
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.exe
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.pdb
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.MenuForm.resources
+C:\Users\Beir Bear\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.exe.config
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.OrderReviewForm.resources
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.ItemsListForm.resources
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.IntimeNewProductForm.resources
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.DeliveryViewForm.resources
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.exe.manifest
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.application
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.ProductEditorForm.resources
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.exe.manifest
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.application
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.ProductInfoForm.resources
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.PasswordForm.resources
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.CustomerEditorForm.resources
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.CustomerInfoEditorForm.resources
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.ViewOrderedItemForm.resources
+C:\Users\Beir Bear\documents\visual studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.AllBillsForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.exe.config
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.exe
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.pdb
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.exe.manifest
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.application
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.exe
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.pdb
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.AllBillsForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.CustomerEditorForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.CustomerInfoEditorForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.DeliveryViewForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.ItemsListForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.IntimeNewProductForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.MenuForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.OrderMakerForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.OrderReviewForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.PasswordForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.ProductEditorForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.ProductInfoForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.Properties.Resources.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.ViewOrderedItemForm.resources
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.exe.manifest
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.application
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.csprojResolveAssemblyReference.cache
+C:\Users\DAECHAPANIT\Documents\Visual Studio 2010\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.csproj.GenerateResource.Cache
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\bin\Debug\OrderHelper.exe.config
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.exe
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.pdb
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.csprojResolveAssemblyReference.cache
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.AllBillsForm.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.CustomerEditorForm.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.CustomerInfoEditorForm.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.DeliveryViewForm.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.ItemsListForm.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.IntimeNewProductForm.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.MenuForm.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.OrderMakerForm.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.OrderReviewForm.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.PasswordForm.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.ProductEditorForm.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.ProductInfoForm.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.Properties.Resources.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.ViewOrderedItemForm.resources
+C:\Users\BeirBear\Documents\Visual Studio 2013\Projects\OrderHelper\OrderHelper\obj\x86\Debug\OrderHelper.csproj.GenerateResource.Cache

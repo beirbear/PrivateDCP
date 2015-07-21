@@ -1,0 +1,18 @@
+﻿[
+{ "CustomerName": "สนั่น", "Phones": "080-128-3069, 054-323-461", "Type": "Credit", "Order": "1" },
+{ "CustomerName": "เล็กเจียบ", "Phones": "089-835-8900, 054-323-169", "Type": "Credit", "Order": "2" },
+{ "CustomerName": "วันดี", "Phones": "081-881-7562, 081-531-7021", "Type": "Cash", "Order": "3" },
+{ "CustomerName": "แก้ว กาดหัวขัว", "Phones": "082-196-7017, 054-313-599", "Type": "Cash", "Order": "4" },
+{ "CustomerName": "พี่เข็ม", "Phones": "085-711-0268", "Type": "Credit", "Order": "5" },
+{ "CustomerName": "ปราณี", "Phones": "081-386-7536", "Type": "Cash", "Order": "6" },
+{ "CustomerName": "ต้อย", "Phones": "089-633-2631", "Type": "Cash", "Order": "7" },
+{ "CustomerName": "ลำดวน", "Phones": "089-553-7498", "Type": "Cash", "Order": "8" },
+{ "CustomerName": "ลุงบุญ", "Phones": "054-221-795", "Type": "Cash", "Order": "9" },
+{ "CustomerName": "ป้านวล", "Phones": "054-225-472", "Type": "Credit", "Order": "10" },
+{ "CustomerName": "ละเอียด ข้างจงกล", "Phones": "081-603-4675", "Type": "Cash", "Order": "11" },
+{ "CustomerName": "จงกล", "Phones": "086-730-6961", "Type": "Credit", "Order": "12" },
+{ "CustomerName": "เล็ก พาณิชย์", "Phones": "083-765-4667, 081-724-1042", "Type": "Cash", "Order": "13" },
+{ "CustomerName": "ถนอมศรี", "Phones": "054-322-940", "Type": "Credit", "Order": "14" },
+{ "CustomerName": "นก", "Phones": "054-323-459", "Type": "Credit", "Order": "15" },
+{ "CustomerName": "นงเยาว์", "Phones": "089-756-2338", "Type": "Cash", "Order": "16" }
+]
