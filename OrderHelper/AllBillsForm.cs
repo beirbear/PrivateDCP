@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Printing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
@@ -21,6 +22,11 @@ namespace OrderHelper
         private readonly string routeName;
         private readonly string date;
 
+        // PRINTING REGION
+        private PrintDocument printDoc;
+        private PageSettings pgSettings;
+        private PrinterSettings prtSetting;
+
         public AllBillsForm(ref Session session, string routeName, string date)
         {
             InitializeComponent();
@@ -38,6 +44,28 @@ namespace OrderHelper
             DisplayAllBills();
         }
 
+        private void InitializePrinter()
+        {
+            // Initilization
+            printDoc = new PrintDocument();
+            pgSettings = new PageSettings();
+            prtSetting = new PrinterSettings();
+
+            printDoc.PrintPage += new PrintPageEventHandler(printDoc_PrintPage);
+        }
+
+        private void PrinterSetting()
+        {
+            // Page Setup
+            PageSetupDialog pageSetupDialog = new PageSetupDialog();
+            
+        }
+
+        private void printDoc_PrintPage(object sender, PrintPageEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
         private void DisplayAllBills()
         {
             rtf1.Clear();
@@ -45,6 +73,8 @@ namespace OrderHelper
             List<CustomerInfo> custInfo = session.GetCustomersList().OrderBy(ex => ex.Order).ToList<CustomerInfo>();
 
             rtf1.Text = routeName + "\r\nวันที่ " + date + "\r\n";
+            string dcpOrdered = "";
+            string amrOrdered = "";
 
             foreach (CustomerInfo cust in custInfo)
             {
@@ -54,38 +84,43 @@ namespace OrderHelper
                 if (session.CustomerHasOrdered(cust.CustomerName))
                 {
                     // Append delimit
-                    rtf1.Text += "--------------------------------------------------------\r\n";
+                    // rtf1.Text += "--------------------------------------------------------\r\n";
 
                     List<OrderedItem> custOrder = session.GetCustomerOrder(cust);
                     if (custOrder.Count > 0)
                     {
-                        rtf1.Text += string.Format("ชื่อ:\t{0}\r\n", cust.CustomerName);
+                        // rtf1.Text += string.Format("ชื่อ:\t{0}\r\n", cust.CustomerName);
                         double total = 0;
                         foreach (OrderedItem item in custOrder)
                         {
                             double inTotal = item.Price * item.Amount * item.Multiplier;
-                            rtf1.Text += string.Format("{0}\t{1}\t{2}\t{3}\t{4}\r\n", item.Amount, item.Unit, GetNameInline(item.Name, item.Note), item.Price, inTotal.ToString("#,##0.##"));
+                            // rtf1.Text += string.Format("{0}\t{1}\t{2}\t{3}\t{4}\r\n", item.Amount, item.Unit, GetNameInline(item.Name, item.Note), item.Price, inTotal.ToString("#,##0.##"));
                             total += inTotal;
                         }
-                        rtf1.Text += "รวม\t\t\t\t" + total.ToString("#,##0.##") + "\r\n";
+                        // rtf1.Text += "รวม\t\t\t\t" + total.ToString("#,##0.##") + "\r\n";
+                        dcpOrdered += string.Format("[ ]\t{0}\t{1}\r\n", cust.CustomerName, total.ToString("#,##0.##"));
                     }
 
                     custOrder = session.GetCustomerOrderAmr(cust);
                     if (custOrder.Count > 0)
                     {
-                        rtf1.Text += string.Format("ชื่อ:\t{0} (อาม่า)\r\n", cust.CustomerName);
+                        // rtf1.Text += string.Format("ชื่อ:\t{0} (อาม่า)\r\n", cust.CustomerName);
+                        // amrOrdered += string.Format("ชื่อ:\t{0} (อาม่า)\r\n", cust.CustomerName);
                         double total = 0;
                         foreach (OrderedItem item in custOrder)
                         {
                             double inTotal = item.Price * item.Amount * item.Multiplier;
-                            rtf1.Text += string.Format("{0}\t{1}\t{2}\t{3}\t{4}\r\n", item.Amount, item.Unit, GetNameInline(item.Name, item.Note), item.Price, inTotal.ToString("#,##0.##"));
+                            // rtf1.Text += string.Format("{0}\t{1}\t{2}\t{3}\t{4}\r\n", item.Amount, item.Unit, GetNameInline(item.Name, item.Note), item.Price, inTotal.ToString("#,##0.##"));
                             total += inTotal;
                         }
-                        rtf1.Text += "รวม\t\t\t\t" + total.ToString("#,##0.##") + "\r\n";
+                        // rtf1.Text += "รวม\t\t\t\t" + total.ToString("#,##0.##") + "\r\n";
+                        amrOrdered += dcpOrdered += string.Format("[ ]\t{0}\t{1}\r\n", cust.CustomerName, total.ToString("#,##0.##"));
                     }
                 }
             }
+            rtf1.Text += dcpOrdered + amrOrdered;
         }
+
 
         private string GetNameInline(string productName, string productNote)
         {

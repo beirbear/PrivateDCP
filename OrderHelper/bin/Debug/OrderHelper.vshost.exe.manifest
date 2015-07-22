@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OrderHelper.exe" size="1327616">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OrderHelper.exe" size="1327104">
       <assemblyIdentity name="OrderHelper" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>9Vt5I5MWQt63LEd/3PXRir8Xl+E=</dsig:DigestValue>
+        <dsig:DigestValue>C18FlpgnjTupSZr7ugojiXRu7Hc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

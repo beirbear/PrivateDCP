@@ -163,14 +163,14 @@
             this.toolStripDropDownButton1});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(884, 27);
+            this.toolStrip1.Size = new System.Drawing.Size(884, 25);
             this.toolStrip1.TabIndex = 2;
             this.toolStrip1.Text = "toolStrip1";
             // 
             // toolStripLabel1
             // 
             this.toolStripLabel1.Name = "toolStripLabel1";
-            this.toolStripLabel1.Size = new System.Drawing.Size(36, 24);
+            this.toolStripLabel1.Size = new System.Drawing.Size(35, 22);
             this.toolStripLabel1.Text = "บันทึก";
             // 
             // tsbSave
@@ -179,7 +179,7 @@
             this.tsbSave.Image = global::OrderHelper.Properties.Resources._1392235569_save;
             this.tsbSave.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbSave.Name = "tsbSave";
-            this.tsbSave.Size = new System.Drawing.Size(23, 24);
+            this.tsbSave.Size = new System.Drawing.Size(23, 22);
             this.tsbSave.Text = "toolStripButton1";
             this.tsbSave.ToolTipText = "บันทึก";
             this.tsbSave.Click += new System.EventHandler(this.tsbSave_Click);
@@ -187,12 +187,12 @@
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 27);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 25);
             // 
             // toolStripLabel2
             // 
             this.toolStripLabel2.Name = "toolStripLabel2";
-            this.toolStripLabel2.Size = new System.Drawing.Size(93, 24);
+            this.toolStripLabel2.Size = new System.Drawing.Size(87, 22);
             this.toolStripLabel2.Text = "ดูใบส่งของชั่วคราว";
             // 
             // tsbViewInvoice
@@ -201,7 +201,7 @@
             this.tsbViewInvoice.Image = ((System.Drawing.Image)(resources.GetObject("tsbViewInvoice.Image")));
             this.tsbViewInvoice.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbViewInvoice.Name = "tsbViewInvoice";
-            this.tsbViewInvoice.Size = new System.Drawing.Size(23, 24);
+            this.tsbViewInvoice.Size = new System.Drawing.Size(23, 22);
             this.tsbViewInvoice.Text = "toolStripButton1";
             this.tsbViewInvoice.ToolTipText = "ดูบิล";
             this.tsbViewInvoice.Click += new System.EventHandler(this.tsbViewInvoice_Click);
@@ -209,18 +209,18 @@
             // tslTabIndicator
             // 
             this.tslTabIndicator.Name = "tslTabIndicator";
-            this.tslTabIndicator.Size = new System.Drawing.Size(23, 24);
+            this.tslTabIndicator.Size = new System.Drawing.Size(20, 22);
             this.tslTabIndicator.Text = "เรา";
             // 
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(6, 27);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(6, 25);
             // 
             // toolStripLabel3
             // 
             this.toolStripLabel3.Name = "toolStripLabel3";
-            this.toolStripLabel3.Size = new System.Drawing.Size(108, 24);
+            this.toolStripLabel3.Size = new System.Drawing.Size(99, 22);
             this.toolStripLabel3.Text = "ดูใบรวมรายการสินค้า";
             // 
             // toolStripButton1
@@ -229,7 +229,7 @@
             this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
             this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton1.Name = "toolStripButton1";
-            this.toolStripButton1.Size = new System.Drawing.Size(23, 24);
+            this.toolStripButton1.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton1.Text = "toolStripButton1";
             this.toolStripButton1.ToolTipText = "ดูใบรวมรายการสินค้า ต่อรอบ";
             this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
@@ -237,7 +237,7 @@
             // toolStripLabel4
             // 
             this.toolStripLabel4.Name = "toolStripLabel4";
-            this.toolStripLabel4.Size = new System.Drawing.Size(141, 24);
+            this.toolStripLabel4.Size = new System.Drawing.Size(132, 22);
             this.toolStripLabel4.Text = "ดูใบรวมรายการสินค้าทั้งหมด";
             // 
             // toolStripButton2
@@ -246,7 +246,7 @@
             this.toolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton2.Image")));
             this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton2.Name = "toolStripButton2";
-            this.toolStripButton2.Size = new System.Drawing.Size(23, 24);
+            this.toolStripButton2.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton2.Text = "toolStripButton2";
             this.toolStripButton2.ToolTipText = "ดูใบรวมรายการสินค้า ทั้งหมด";
             this.toolStripButton2.Click += new System.EventHandler(this.toolStripButton2_Click);
@@ -254,7 +254,7 @@
             // toolStripLabel5
             // 
             this.toolStripLabel5.Name = "toolStripLabel5";
-            this.toolStripLabel5.Size = new System.Drawing.Size(75, 24);
+            this.toolStripLabel5.Size = new System.Drawing.Size(71, 22);
             this.toolStripLabel5.Text = "ลบรอบรายการ";
             // 
             // toolStripButton3
@@ -263,7 +263,7 @@
             this.toolStripButton3.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton3.Image")));
             this.toolStripButton3.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton3.Name = "toolStripButton3";
-            this.toolStripButton3.Size = new System.Drawing.Size(23, 24);
+            this.toolStripButton3.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton3.Text = "toolStripButton3";
             this.toolStripButton3.ToolTipText = "ลบรอบรายการสินค้า ทั้งหมด";
             this.toolStripButton3.Click += new System.EventHandler(this.toolStripButton3_Click);
@@ -271,12 +271,12 @@
             // toolStripSeparator3
             // 
             this.toolStripSeparator3.Name = "toolStripSeparator3";
-            this.toolStripSeparator3.Size = new System.Drawing.Size(6, 27);
+            this.toolStripSeparator3.Size = new System.Drawing.Size(6, 25);
             // 
             // toolStripLabel8
             // 
             this.toolStripLabel8.Name = "toolStripLabel8";
-            this.toolStripLabel8.Size = new System.Drawing.Size(71, 24);
+            this.toolStripLabel8.Size = new System.Drawing.Size(66, 22);
             this.toolStripLabel8.Text = "ดูสินค้าเฉพาะ";
             // 
             // toolStripButton5
@@ -285,7 +285,7 @@
             this.toolStripButton5.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton5.Image")));
             this.toolStripButton5.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton5.Name = "toolStripButton5";
-            this.toolStripButton5.Size = new System.Drawing.Size(23, 24);
+            this.toolStripButton5.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton5.Text = "toolStripButton5";
             this.toolStripButton5.ToolTipText = "ดูรายชื่อผู้สั่งสินค้า เฉพาะ";
             this.toolStripButton5.Click += new System.EventHandler(this.toolStripButton5_Click);
@@ -293,18 +293,18 @@
             // toolStripSeparator6
             // 
             this.toolStripSeparator6.Name = "toolStripSeparator6";
-            this.toolStripSeparator6.Size = new System.Drawing.Size(6, 27);
+            this.toolStripSeparator6.Size = new System.Drawing.Size(6, 25);
             // 
             // toolStripLabel6
             // 
             this.toolStripLabel6.Name = "toolStripLabel6";
-            this.toolStripLabel6.Size = new System.Drawing.Size(73, 24);
+            this.toolStripLabel6.Size = new System.Drawing.Size(69, 22);
             this.toolStripLabel6.Text = "แท็บมาตรฐาน";
             // 
             // tsDefaultMerchant
             // 
             this.tsDefaultMerchant.Name = "tsDefaultMerchant";
-            this.tsDefaultMerchant.Size = new System.Drawing.Size(75, 23);
+            this.tsDefaultMerchant.Size = new System.Drawing.Size(75, 25);
             this.tsDefaultMerchant.SelectedIndexChanged += new System.EventHandler(this.tsDefaultMerchant_SelectedIndexChanged);
             // 
             // toolStripSeparator4
@@ -337,8 +337,8 @@
             // toolStripLabel9
             // 
             this.toolStripLabel9.Name = "toolStripLabel9";
-            this.toolStripLabel9.Size = new System.Drawing.Size(50, 15);
-            this.toolStripLabel9.Text = "ส่งออกบิล";
+            this.toolStripLabel9.Size = new System.Drawing.Size(49, 15);
+            this.toolStripLabel9.Text = "ใบรวมบิล";
             // 
             // toolStripButton6
             // 
@@ -374,7 +374,7 @@
             this.เราToolStripMenuItem,
             this.อามาToolStripMenuItem});
             this.แกไขขอมลสนคาToolStripMenuItem.Name = "แกไขขอมลสนคาToolStripMenuItem";
-            this.แกไขขอมลสนคาToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.แกไขขอมลสนคาToolStripMenuItem.Size = new System.Drawing.Size(150, 22);
             this.แกไขขอมลสนคาToolStripMenuItem.Text = "แก้ไขข้อมูลสินค้า";
             // 
             // เราToolStripMenuItem
@@ -394,7 +394,7 @@
             // แกไขขอมลลกคาToolStripMenuItem
             // 
             this.แกไขขอมลลกคาToolStripMenuItem.Name = "แกไขขอมลลกคาToolStripMenuItem";
-            this.แกไขขอมลลกคาToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.แกไขขอมลลกคาToolStripMenuItem.Size = new System.Drawing.Size(150, 22);
             this.แกไขขอมลลกคาToolStripMenuItem.Text = "แก้ไขข้อมูลลูกค้า";
             this.แกไขขอมลลกคาToolStripMenuItem.Click += new System.EventHandler(this.แกไขขอมลลกคาToolStripMenuItem_Click);
             // 
