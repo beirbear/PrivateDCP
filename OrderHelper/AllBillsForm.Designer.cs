@@ -62,7 +62,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(85, 35);
             this.button1.TabIndex = 13;
-            this.button1.Text = "คัดลอก";
+            this.button1.Text = "พิมพ์";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
