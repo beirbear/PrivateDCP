@@ -126,7 +126,7 @@
             this.buttonCopy.Name = "buttonCopy";
             this.buttonCopy.Size = new System.Drawing.Size(75, 32);
             this.buttonCopy.TabIndex = 1;
-            this.buttonCopy.Text = "คัดลอก";
+            this.buttonCopy.Text = "พิมพ์";
             this.buttonCopy.UseVisualStyleBackColor = true;
             this.buttonCopy.Click += new System.EventHandler(this.buttonCopy_Click);
             // 
